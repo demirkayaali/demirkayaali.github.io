@@ -1,8 +1,8 @@
 ---
 # the default layout is 'page'
+title: Hakkımda
 icon: fas fa-info-circle
 order: 4
 ---
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+1999 yılından beri yazılım sektöründeyim. Halen bir kurumda mesleğim üzerine çalışmaya devam ediyorum. 
+Burada teknik içerik yerine, fikirlerimi ifade etmeye çalışacağım.
