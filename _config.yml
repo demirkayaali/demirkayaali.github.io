@@ -16,10 +16,10 @@ timezone: Europe/Istanbul
 
 title: Ali Demirkaya # the main title
 
-tagline: Yazılım Uzmanı
+tagline: Gökleri görebilmek için, gözleri kapatmak gerekiyor.
 
 description: >- # used by seo meta and the atom feed
-  metafizik, yazılım, c# veritabanı, sql
+  metafizik, mit, tasarım, sanat, yazılım, veritabanı, kitap
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
